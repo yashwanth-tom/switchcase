@@ -35,6 +35,7 @@ public class SwitchCase {
                 String name=le.next();
                 System.out.print("Approved : ");
                 System.out.println(name.equals("tom")||name.equals("TOM"));
+                System.out.println("Keestu")
                 break;
             }
             default:
